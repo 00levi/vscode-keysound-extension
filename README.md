@@ -1,6 +1,6 @@
 KeySound — Extensión de VSCode para sonidos de teclado
 
-¡Dale vida a tu teclado en Visual Studio Code! soundkey es una extensión que reproduce sonidos personalizados al presionar teclas, mejorando la experiencia de tipeo.
+¡Dale vida a tu teclado en Visual Studio Code! soundkey es una extensión que reproduce sonidos personalizados al presionar teclas, mejorando la experiencia de tipeo.probado en windows principalmente para uso personal pero si alguine le sirve o le gusta.
 
 🎵 Personaliza sonidos para Enter, Backspace y más
 
