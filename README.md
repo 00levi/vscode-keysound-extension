@@ -81,7 +81,7 @@ The CodeMath Extension is released under the [MIT License](LICENSE). You are fre
 <div align="center">
     <table>
     <tr>
-        <td><img src="assets/logo.png" width="100"/></td>
+        <td><img src="assets/logo.gif" width="100"/></td>
     </tr>
     </table>
    
